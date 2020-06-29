@@ -26,4 +26,3 @@ Additional documentation resources are:
 The [samples](https://github.com/google/kctf/tree/master/samples) directory contains two examples:
 * A web challenge that acts like an XSS bot.
 * A web challenge that acts like a vulnerable PHP application with support for sessions and file uploads.
-
